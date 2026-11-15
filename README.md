@@ -20,9 +20,7 @@ A modular web scraping pipeline and interactive web dashboard built with **Pytho
    git clone [https://github.com/sdfjidfsd/ecommerce-price-monitor.git](https://github.com/sdfjidfsd/ecommerce-price-monitor.git)
    cd ecommerce-price-monitor
 
-## 🚀 Quick Start
-
-1. **Clone the repository:**
+1. **Create and activate a virtual environment:**
    ```bash
    python -m venv venv
    # En Windows (PowerShell):
@@ -30,14 +28,10 @@ A modular web scraping pipeline and interactive web dashboard built with **Pytho
    # En macOS / Linux:
    source venv/bin/activate
 
-## 🚀 Quick Start
-
-1. **Clone the repository:**
+1. **Install dependencies:**
    ```bash
      pip install -r requirements.txt
-  
-## 🚀 Quick Start
 
-1. **Clone the repository:**
+1. **Execute web interface:**
    ```bash
    streamlit run app.py
