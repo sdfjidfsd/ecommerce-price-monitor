@@ -17,7 +17,7 @@ A modular web scraping pipeline and interactive web dashboard built with **Pytho
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sdfjidfsd/ecommerce-price-monitor.git](https://github.com/sdfjidfsd/ecommerce-price-monitor.git)
+   git clone https://github.com/sdfjidfsd/ecommerce-price-monitor.git
    cd ecommerce-price-monitor
 
 1. **Create and activate a virtual environment:**
